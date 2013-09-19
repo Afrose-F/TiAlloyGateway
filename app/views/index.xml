@@ -1,0 +1,17 @@
+<Alloy>
+	<Window class="container">
+		<NavigationGroup id="NavGroup" platform="ios,mobileweb">
+			<Window title="BP List" id="MasterWindow">
+				<TableView id="MasterTable" onClick="doClick"></TableView>	
+			</Window>	
+		</NavigationGroup>
+		
+		<TableView id="MasterTable" platform="android" onClick="doClick">
+			<HeaderView>
+				<Label id="header">Business Partners</Label>
+			</HeaderView>
+		</TableView>
+		
+		<Widget src="nl.fokkezb.loading" id="loading" />
+	</Window>
+</Alloy>

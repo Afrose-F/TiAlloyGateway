@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label id="name" platform="android"/>
+		<Label id="bp"/>
+		<Label id="role"/>
+		<Label id="webaddress" onClick="handleDetailClick"/>
+		<Label id="phone"  onClick="handleDetailClick"/>
+		<Label id="email"  onClick="handleDetailClick"/>
+	</Window>
+</Alloy>
