@@ -1,9 +1,13 @@
-TiAlloy Mobile Project
+TiAlloy Gateway Project
+=========================
 
-Demo app showing TiAlloy calling a SAP NetWeaver Gateway system
+Demo app showing TiAlloy calling a SAP NetWeaver Gateway system for a list of Business Partners
 
-Related blog can be found on SCN below
 
+
+Loading Widget can used in the app is located here -
+
+https://github.com/FokkeZB/nl.fokkezb.loading
 
 
 Videos of the app running on the simulators -
