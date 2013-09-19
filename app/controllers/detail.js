@@ -44,6 +44,7 @@ function handleDetailClick(e) {
 			
 			// Launch the Email Dialog, pre-populating the fields 
 			var emailDialog = Titanium.UI.createEmailDialog();
+    		
     		emailDialog.setSubject('TiAlloy Gateway!');
     		emailDialog.setToRecipients([value]);
 

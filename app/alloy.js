@@ -23,6 +23,7 @@ function getBusinessPartnerList() {
 			},timeout:10000,
 	});
 
+	// Will need to add your username/passwor
 	var username='XXXXXXX';
 	var password='XXXXXXX';
 	
