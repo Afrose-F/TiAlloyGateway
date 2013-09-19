@@ -3,6 +3,11 @@ TiAlloy Gateway Project
 
 Demo app showing TiAlloy calling a SAP NetWeaver Gateway system for a list of Business Partners
 
+Note: The username/password needs to be updated in alloy.js to call the Gateway Service
+
+Registration info for the servcies can be found here -
+http://scn.sap.com/docs/DOC-40986
+http://scn.sap.com/docs/DOC-31221
 
 
 Loading Widget can used in the app is located here -
