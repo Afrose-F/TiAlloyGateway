@@ -1,18 +1,17 @@
-Welcome to your Appcelerator Titanium Mobile Project
+TiAlloy Mobile Project
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+Demo app showing TiAlloy calling a SAP NetWeaver Gateway system
+
+Related blog can be found on SCN below
 
 
 
-----------------------------------
-Stuff our legal folk make us say:
+Videos of the app running on the simulators -
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
+http://www.youtube.com/watch?v=zbwevEpnb8Y (iPhone)
+http://www.youtube.com/watch?v=C2dfYA8FNLg (Andriod)
 
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+
+
 
